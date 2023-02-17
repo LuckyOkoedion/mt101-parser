@@ -13,3 +13,20 @@ The MT 101 can be used to order the movement of funds:
     1. between ordering customer accounts, or
     2.  in favour of a third party, either domestically or internationally.
 For use of messages in the corporate to bank environment, see the MT message implementation guide for corporate customers available on www.swift.com.
+
+
+#### USAGE
+
+```
+<dependencies>
+    <dependency>
+        <groupId>com.aikhomu-okoedion</groupId>
+        <artifactId>mt101-parser</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
+</dependencies>
+
+```
+
+
+
