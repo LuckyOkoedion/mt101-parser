@@ -1,0 +1,32 @@
+# Compiled class file
+target/
+
+# Maven build directory
+.mvn/
+
+# IDE files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.tar.bz2
+
+# Dependency directories
+lib/
+bin/
+
+# Temporary files
+*.swp
+*.bak
+*~
+
+# macOS files
+.DS_Store
